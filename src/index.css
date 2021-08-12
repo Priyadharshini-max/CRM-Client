@@ -1,0 +1,35 @@
+.profile-img-card{
+    height: 100px;
+    width: 100px;
+    border-radius: 50cm;
+    margin-left: 70px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.container{
+    margin-top: 40px;
+    margin-left: 460px;
+    border: 2px solid rgba(128, 128, 128, 0.781);
+    width: 21%;
+    padding-left: 40px;
+}
+
+Button{
+    margin-bottom: 20px;
+    margin-left: 60px;
+}
+
+.PWcontainer{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border: 2px solid rgba(128, 128, 128, 0.781);
+}
+
+.passwordBtn{
+    margin-top: 20px;
+}
+
+label{
+   font-weight: 600;
+}
